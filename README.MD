@@ -6,6 +6,6 @@ This is a demo application and this project was done in 2013, Engineering 2nd ye
 ## Project Contains
 - Paint Program
 - Piano
-- Electric Circuits (Registers and cells)
+- Electric Circuits (Resistance and cells)
 - and various animation
 
